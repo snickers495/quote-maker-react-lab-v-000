@@ -1,6 +1,7 @@
 import React from 'react';
 
 export default class QuoteCard extends React.Component {
+  
   render() {
     return(
       <form>
