@@ -13,6 +13,6 @@ export function removeQuote(quoteId) {
 }
 export function upvoteQuote(quoteId) {
   return {
-    type: "REMOVE_QUOTE",
+    type: "UP",
     quoteId: quoteId
   }
