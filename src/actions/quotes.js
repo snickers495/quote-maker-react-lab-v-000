@@ -7,6 +7,6 @@ export function addQuote(quote) {
 }
 export function removeQuote(quote) {
   return {
-    type: "R"
+    type: "REMOVE_W"
   }
 }
