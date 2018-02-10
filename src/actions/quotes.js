@@ -16,3 +16,4 @@ export function upvoteQuote(quoteId) {
     type: "UPVOTE_QUOTE",
     quoteId: quoteId
   }
+  
