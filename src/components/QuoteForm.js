@@ -4,7 +4,8 @@ export default class QuoteCard extends React.Component {
   constructor(){
     super()
     this.state = {
-      author: 
+      author: '',
+      content: 
     }
   }
   render() {
