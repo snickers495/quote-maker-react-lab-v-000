@@ -5,4 +5,6 @@ export function addQuote(quote) {
     quote: quote
   }
 }
-export function remove
+export function removeQuote(quote) {
+  
+}
