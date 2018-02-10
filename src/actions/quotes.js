@@ -11,7 +11,7 @@ export function removeQuote(quoteId) {
     quoteId: quoteId
   }
 }
-export function removeQuote(quoteId) {
+export function upvoteQuote(quoteId) {
   return {
     type: "REMOVE_QUOTE",
     quoteId: quoteId
