@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class QuoteCard extends React.Component {
+export default class QuoteForm extends React.Component {
   constructor(){
     super()
     this.state = {
