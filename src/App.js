@@ -9,7 +9,7 @@ export class App extends Component {
         </div>
         <hr />
         <form>
-        <labe
+        
         </form>
       </div>
     );
