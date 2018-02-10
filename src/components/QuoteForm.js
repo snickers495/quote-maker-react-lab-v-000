@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class QuoteCard extends React.Compont (props) => {
+export default class QuoteCard extends React.Component {
   return(
     <form>
     <label>Quote</label>
