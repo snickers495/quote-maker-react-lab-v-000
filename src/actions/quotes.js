@@ -16,4 +16,10 @@ export function upvoteQuote(quoteId) {
     type: "UPVOTE_QUOTE",
     quoteId: quoteId
   }
-  
+}
+export function upvoteQuote(quoteId) {
+  return {
+    type: "UPVOTE_QUOTE",
+    quoteId: quoteId
+  }
+}
