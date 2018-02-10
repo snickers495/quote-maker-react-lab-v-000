@@ -9,8 +9,8 @@ export class App extends Component {
         </div>
         <hr />
         <form>
-        <lab3l>Quote</label>
-        <input type="text" name="quote">
+        <label>Quote</label>
+        <input type="text" name="quote"></
 
         </form>
       </div>
