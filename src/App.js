@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import QuoteForm from './containers/QuoteForm'
-import Quote from './containers/QuoteForm'
+import Quote from './containers/Quote'
 
 export class App extends Component {
   render() {
