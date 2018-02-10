@@ -5,7 +5,7 @@ export default class QuoteCard extends React.Component {
     super()
     this.state = {
       author: '',
-      content: 
+      content: ''
     }
   }
   render() {
