@@ -9,7 +9,8 @@ export class App extends Component {
         </div>
         <hr />
         <form>
-        <lable>Quote</
+        <lable>Quote</label>
+        <
         </form>
       </div>
     );
