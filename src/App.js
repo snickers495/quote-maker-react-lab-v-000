@@ -10,8 +10,8 @@ export class App extends Component {
         <hr />
         <form>
         <label>Quote</label>
-        <input type="text" name="quote">
-
+        <input type="text" name="quote"/>
+        
         </form>
       </div>
     );
