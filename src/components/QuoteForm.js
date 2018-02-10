@@ -3,7 +3,9 @@ import React from 'react';
 export default class QuoteCard extends React.Component {
   constructor(){
     super()
-    this.state = {}
+    this.state = {
+      author: 
+    }
   }
   render() {
     return(
