@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default class QuoteCard extends React.Component {
-  render() 
+  render() {
   return(
     <form>
     <label>Quote</label>
@@ -11,4 +11,5 @@ export default class QuoteCard extends React.Component {
     <input type="submit"/>
     </form>
   )
+  
 }
