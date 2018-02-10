@@ -11,4 +11,8 @@ export function removeQuote(quoteId) {
     quoteId: quoteId
   }
 }
-export function 
+export function removeQuote(quoteId) {
+  return {
+    type: "REMOVE_QUOTE",
+    quoteId: quoteId
+  }
