@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import QuoteForm from './components/QuoteForm'
 
-export class App extends Component {
+export default class App extends Component {
   render() {
     return (
       <div className="container-fluid">
