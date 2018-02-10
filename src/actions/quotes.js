@@ -5,9 +5,9 @@ export function addQuote(quote) {
     quote: quote
   }
 }
-export function removeQuote(quote) {
+export function removeQuote(quoteId) {
   return {
     type: "REMOVE_QUOTE",
-    quoteID: quote
+    quoteId: quote
   }
 }
