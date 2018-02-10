@@ -9,7 +9,7 @@ export class App extends Component {
           <h1>Quote Maker</h1>
         </div>
           <QuoteForm/>
-          
+          <Quote>
         <hr />
 
       </div>
