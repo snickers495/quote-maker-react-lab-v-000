@@ -1,6 +1,6 @@
 import React from 'react';
 
-const QuoteCard = (props) => {
+export const QuoteCard = (props) => {
   return(
     <form>
     <label>Quote</label>
