@@ -11,7 +11,8 @@ export class App extends Component {
         <form>
         <label>Quote</label>
         <input type="text" name="quote"/>
-        
+        <label>Author</label>
+        <input type="text" name="quote"/>
         </form>
       </div>
     );
